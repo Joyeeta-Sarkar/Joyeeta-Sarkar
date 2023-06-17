@@ -1,7 +1,7 @@
 
 ![MasterHead](https://www.bing.com/th/id/OGC.d7f81c152199dd76266d1233a21b1552?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f2d%2f96%2f6b%2f2d966b5535bcdd4fbf5a78a0cf1185dc.gif&ehk=QKzrHCIMuqgtKjlj7rA9O4vXag8JWL6l%2bmoZBbBxKVs%3d)
 <h1 align="center">Hi 👋, I'm Joyeeta Sarkar</h1>
-<h3 align="center">A passionate Data Scientist | Web Developer | Full time Artist | Digital Marketer | AI Graphics Designer</h3>
+<h3 align="center">A passionate Data Scientist | Web Developer & Designer | Full time Artist | Digital Marketer | AI Graphics Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyeeta-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="joyeeta-sarkar" /> </p>
